@@ -24,4 +24,11 @@
 | Tennikoit | Ground | $8 |
 | Chess | Indoor | $12 |
 | Yoga | Indoor and outdoor | $10 |
+***
+### Quotations for motivation
+>"To produce a mighty book, you must choose a mighty theme."-*Herman Melville*
+
+> "I can shake off everything as I write; my sorrows disappear, my courage is reborn."-*Anne Frank*
+
+
 
