@@ -10,4 +10,7 @@
     1. General mode of transportations for this coffee shop are auto and buses but personal vehicles are more preferrable.
     2. As it is situated very near to airport,it is very convinient to hangout there after a long tiring flight.
 3. Apart from tasty food and coffee this place has high hygienic valves.
-
+* Dragon Chicken is recommended 
+* Schewzan Chicken Fried Rice
+* French Fries
+* Cappuccino
