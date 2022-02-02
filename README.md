@@ -16,4 +16,12 @@
 * Cappuccino
 
 [About me](ABOUTME.md)
+***
+### List of sports that are recommended 
+| Activity Name | Place Recommended | Cost of the equipment |
+|---|---|---|
+| Throw Ball | Throw ball court | $15 |
+| Tennikoit | Ground | $8 |
+| Chess | Indoor | $12 |
+| Yoga | Indoor and outdoor | $10 |
 
